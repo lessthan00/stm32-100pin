@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -30,14 +30,11 @@
     },
     "visible_items": [
       "vias",
-      "footprint_text",
       "footprint_anchors",
       "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
-      "footprint_values",
-      "footprint_references",
       "tracks",
       "drc_errors",
       "drawing_sheet",
@@ -58,7 +55,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "jlc_mode.kicad_prl",
+    "filename": "stm32-100pin.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
